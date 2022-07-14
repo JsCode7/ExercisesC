@@ -1,2 +1,2 @@
-# MathC
-Ejercicios varios de práctica en C
+# Ejercicios en C para prácticar
+Exercises in C to practice
